@@ -1,5 +1,5 @@
 # mod_inventario_basico
-
+Hola que hace
 ## 🚀 Instalación y Configuración
 
 ### Prerrequisitos
